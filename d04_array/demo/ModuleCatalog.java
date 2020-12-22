@@ -16,7 +16,6 @@ public class ModuleCatalog {
             System.out.println("\n MENU");
             System.out.println("1. Them mon hoc moi");
             System.out.println("2. Xem danh sach cac mon hoc");
-            switch(op){
             System.out.println("3. Xoa mon hoc theo ma so");
             System.out.println("4. Tim mon hoc theo ten");
             System.out.println("5. Thoat");
